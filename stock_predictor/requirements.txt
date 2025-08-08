@@ -1,0 +1,5 @@
+yfinance
+pandas
+nltk
+scikit-learn
+tensorflow
