@@ -1,0 +1,1 @@
+this is an application that uses AI to scan the media and uses patern learning AI that reads the history of stock prices and accurate predicts the directional individual stocks in the Stock exchange.  
